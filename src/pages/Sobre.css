@@ -1,0 +1,13 @@
+.card-sobre {
+    border-radius: 8px;
+    box-shadow: 10px;
+    width: 600px;
+    height: 200px;
+    background-color: #ffffff;
+    margin-top: 100px;
+
+}
+
+.card-sobre > h1, p {
+    text-align: center;
+}
